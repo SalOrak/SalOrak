@@ -6,6 +6,7 @@ You might know me by some of my projects such as:
 - [Whaler.nvim](https://github.com/salorak/whaler.nvim): A minimalist project manager to work around files and directories inside Neovim editor using Telescope. (Lua)
 - [Whaler.el](https://github.com/salorak/whaler.el): A ~replica plugin of Whaler.nvim~ minismalist project manager inside Emacs. (Elisp)
 - [Ansible-doc.nvim](https://github.com/salorak/ansible-doc.nvim): A Neovim plugin to search ansible documentation inside Neovim. It uses `fzf-lua` to fuzzy find ansible module documentations. (Lua)
+- [libtmux.nvim](https://github.com/salorak/libtmux.nvim): A thin wrapper to interact with the complete Tmux api from Neovim. (Lua)
 
 
 
