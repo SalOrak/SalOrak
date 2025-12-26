@@ -2,7 +2,12 @@
 
 Hello there, I'm Hector Alarcon, also known as *SalORak* (🐍)
 
-You might know me by some of my projects such as:
+I'm a systems engineer with a passion for OS development and embedded systems. 
+
+My main languages as of right now are: C, Rust, Lua, Python and NodeJS.
+
+I use Neovim as my main editor and I've developed some plugins over the years. Check them out:
+
 - [Whaler.nvim](https://github.com/salorak/whaler.nvim): A minimalist project manager to work around files and directories inside Neovim editor using Telescope. (Lua)
 - [Whaler.el](https://github.com/salorak/whaler.el): A ~replica plugin of Whaler.nvim~ minismalist project manager inside Emacs. (Elisp)
 - [Ansible-doc.nvim](https://github.com/salorak/ansible-doc.nvim): A Neovim plugin to search ansible documentation inside Neovim. It uses `fzf-lua` to fuzzy find ansible module documentations. (Lua)
