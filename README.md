@@ -8,11 +8,10 @@ My main languages as of right now are: C, Rust, Lua, Python and NodeJS.
 
 I use Neovim as my main editor and I've developed some plugins over the years. Check them out:
 
-- [Whaler.nvim](https://github.com/salorak/whaler.nvim): A minimalist project manager to work around files and directories inside Neovim editor using Telescope. (Lua)
-
-- [Ansible-doc.nvim](https://github.com/salorak/ansible-doc.nvim): A Neovim plugin to search ansible documentation inside Neovim. It uses `fzf-lua` to fuzzy find ansible module documentations. (Lua)
-- [libtmux.nvim](https://github.com/salorak/libtmux.nvim): A thin wrapper to interact with the complete Tmux api from Neovim. (Lua)
-
+- [Whaler.nvim](https://github.com/salorak/whaler.nvim): A minimalist project manager to work around files and directories inside Neovim. Accepts Telescope, FzfLua or Vanilla pickers.
+- [Ansible-doc.nvim](https://github.com/salorak/ansible-doc.nvim): A Neovim plugin to search ansible documentation inside Neovim. It uses `fzf-lua` to fuzzy find ansible module documentations.
+- [libtmux.nvim](https://github.com/salorak/libtmux.nvim): A thin wrapper to interact with the complete Tmux api from Neovim.
+- [orak.nvim](https://github.com/salorak/orak.nvim): A collection of small and simple plugins to move on.
 
 
 If you are curious about my system, I currently use NixOS as my daily-driver. The configuration is based on flakes: [NixOS Configuration](https://github.com/salorak/snakes).
