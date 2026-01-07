@@ -18,6 +18,10 @@ If you are curious about my system, I currently use NixOS as my daily-driver. Th
 
 And my [config files](https://github.com/salorak/dotfiles) for the tools I use. 
 
+Don't hesitate to ping me [hello@salorak.es](mailto:hello@salorak.es).
+
+Finally, I do have a [blog](https://salorak.es), check it out!
+
 
 
 
