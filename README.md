@@ -6,6 +6,9 @@ I'm a software security engineer with a passion for low-level development relate
 
 My main languages as of right now are: C, Rust, Lua, Python and NodeJS.
 
+Currently working on:
+- [acidburn](https://github.com/salorak/acidburn): An innovative hacker TUI shell. Made for Pentesting.
+
 I use Neovim as my main editor and I've developed some plugins over the years. Check them out:
 
 - [Whaler.nvim](https://github.com/salorak/whaler.nvim): A minimalist project manager to work around files and directories inside Neovim. Accepts Telescope, FzfLua or Vanilla pickers.
