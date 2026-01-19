@@ -2,7 +2,7 @@
 
 Hello there, I'm Hector Alarcon, also known as *SalORak* (🐍)
 
-I'm a systems engineer with a passion for OS development and embedded systems. 
+I'm a software security engineer with a passion for low-level development related to security. 
 
 My main languages as of right now are: C, Rust, Lua, Python and NodeJS.
 
